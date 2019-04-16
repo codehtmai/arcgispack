@@ -14,8 +14,8 @@
     "lib"
   ],
   "dependencies": {
-    "@arcgis/webpack-plugin": "4.9.0",
-    "arcgis-wrapper": "1.0.2",
+    "@arcgis/webpack-plugin": "4.11.0",
+    "arcgis-wrapper": "github:codehtmai/arcgis-wrapper",
     "babel-core": "6.26.3",
     "babel-loader": "7.1.5",
     "babel-preset-env": "1.7.0",
